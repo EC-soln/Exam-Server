@@ -1,0 +1,93 @@
+Ethiopian General Secondary Education Certificate Mathematics Examination.
+Booklet code: 019     
+Subject code: 03
+1.	Consider an angle of 3240. Then which one of the following is the radian measure of this angle?
+A.5/9?
+B. 5/7?
+C. 9/5?
+D.7/5?
+answer: C
+2. How many lines of symmetry dose a regular hexagon have?
+A. 7
+B. 6
+C. 8
+D. 5
+answer: B
+3. Which of the following is necessarily true about similar polygons?
+A. They have congruent corresponding angles.
+B. They have congruent corresponding sides.
+C. Any two regular polygons are equal.
+D. They are always congruent.
+answer: C
+4. Let u= (2, 5) and v= (?3, 8) be vectors. Then the vector u-v equals to?
+A. (5,-3)
+B. (5,-13)
+C. (-5,-3)
+D. (-1,3)
+answer: C
+5.Let set M contains 25 elements. Then which of the following sets is equivalent to M?
+A. {x: x is a natural number and x<26}
+B. {x: x is a natural number and x<25}
+C. {x: x is a natural number and x>25}
+D. {x: x is a natural number and x=26}
+answer: B
+6. In a certain Ethiopian High School 100 students are studying English, 85 students are studying French, and 35 students are studying both languages. Then how many students are studying any of the foreign languages? 
+A.15
+B.220
+C. 150
+D. 185
+answer: C
+7. When f(x) = x5+x-1 is divided by x+1, the remainder equals to?
+A. -1
+B. 1
+C. -3
+D. -2
+answer: B
+8. Which of the following is the property of the arithmetic mean of the data?
+A. It cannot be a value outside the data set.
+B. There can be more than one value for the mean.
+C. The arithmetic mean is affected by extreme values.
+D. We do not need all the data values to calculate it.
+answer: B
+9. A fair con will be tossed three times. What is the probability that at least two heads show up?
+A. ¾
+B. ½
+C. 5/8
+D.3/8
+answer: D
+10. Which of the following is true about the Mode of a data set?
+A. It is uniquely determined.
+B. It can be a value out of the data
+C. It is the one which occurs exactly at half way in the data set.
+D. It is used for both qualitative and quantitative data.
+answer: B
+11. A frustum of height 12 cm is formed from a right circular cone of height 16 cm and base radius 8 cm. the volume of the frustum is:
+A. 104p cm3 
+B. 330p cm3 
+C. 312p cm3 
+D.336p cm3 
+answer: D
+12.The sides of a given rectangle are 6 units, 8 units and 10 units long. Which of the following is the area of the triangle?
+A. 24 square units.
+B. 30 square units.
+C. 32 square units.
+D. 40 square units.
+answer: C
+13. A farmer sold 57.36 kg of corn when measured correct to two decimal places. Which of the following is the lower bound of this weight in kg? 
+A. 57.355
+B. 57.35
+C. 57.36
+D. 57.359
+answer: C
+14.If the point A(b,4) is 10 units away from B(0,-2), then the possible value(s) of b is(are):
+A. 8 and -8
+B. 10
+C. 4 and 6
+D. 2v3
+answer: C
+15. When dividing  x^3+?2x?^2-5x+3 by x^2+x-1, the quotient and the remainder respectively are:
+A. x+1 and -5x +2
+B. x+1 and -3x+4
+C. x-1 and -5x-4
+D. x+1 and -5x+4
+answer: C

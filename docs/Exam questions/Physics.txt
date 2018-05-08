@@ -1,0 +1,95 @@
+ Ethiopian General Secondary Education Certificate Physics Examination
+Booklet code: 023  
+Subject code: 04
+1. A uniform cylindrical wire of 1 cm radius 10 cm length has a resistance of 5 ? 10-4?. What is the resistivity of the wire?
+A.1.00 ? 10-4 ? m.
+B.1.57 ? 10-4 ? m.
+C.1.00 ? 10-8 ? m.
+D.1.57 ? 10-8 ? m.
+answer: D
+2.A dry cell’s voltage is labeled to be 1.5 V. which of the following statement is correct?
+A.The terminal voltage of the cell is equal to 1.5 V for closed circuit.
+B.The electromotive force (emf) of the cell is equal to 1.5V.
+C.The terminal voltage of the cell is greater than 1.5V.
+D.The emf of the dry cell less than 1.5V.
+answer: C
+3.The distance between two nearby crests of the water wave in a pond is measured to be 0.40m. If six crests are pass a point every second without considering the reference crest, what is the speed of the wave?
+A.2.4 m/s
+B.1.2 m/s
+C.24.0 m/s
+D.4.8 m/s 
+answer: B
+4.In an open field there is a big concrete wall. Sound waves that are produced in front of the wall can be heard behind the wall. This is possible mainly due to
+A.Refraction 
+B.Reflection
+C. Diffraction  
+D.Interference   
+answer: B
+5.A certain normal conversation detected an intensity of 10-6 W/m2 at a distance of 2 m away from the source. What was the power emitted by the source?
+A.5.02 ? 10-5 Watt 
+B.2.5 ?10-5 Watt
+C.4 ?10-6 Watt
+D.2 ?10-6 Watt
+answer: B
+6.If the value of the gravitational acceleration on the surface of the earth is g, then what will be its value at a distance of h = 6.38 ? 106 m from the surface of the earth? (the radius of the earth is RE = 6.38 ? 106 m )
+A.g/2
+B.g
+C.g/8
+D.g/4
+answer: C
+7. Which of the following is correct about magnetic flux?
+A.The magnetic flux in a coil increases when the strength of the magnetic field decreases.
+B.The SI unit of magnetic flux is T/m2
+C.The magnetic flux a coil does not depend on the strength of the magnetic field.
+D.The SI unit of magnetic flux is T.m2
+answer: B
+8. Which of the following is true about types of semiconductors ?A semiconductor
+A.Doped with acceptor impurity atoms is called a p-type.
+B.Doped with donor impurity atoms is called a p-type.
+C.In which the majority carriers are holes due to doping is an n-type.
+D.Doped with accepter impurity atoms is called an n-type. 
+answer: C
+9.A man lifts a 0.2 kg brick from the first floor to the second floor of a building. The first floor is 2.8 m above the ground and 2.8 m below the second floor. How much work is done on the brick by the gravitational force of the earth? (g = 10m/s2)
+A.-5.6 J
+B.-11.2 J
+C.11.2 J
+D.5.6 J
+ answer: C
+10.If the feel a pressure three times that of atmospheric pressure when you are deep under water. How high is the water level from your position?
+(Atmospheric pressure = 105pa, Density of water = 103 kg/m3, g=10m/s2)
+A.20m
+B.10m
+C.40m
+D.30m
+answer: D
+11.A square metal plate has an area of 0.09m2 at a temperature of 30 oC.If the temperature is raised to 60 oC the area increased by
+(The coefficient of linear expansion for metal is 1.1?10-5/oC )  
+A.1.0000594 m2
+B.1.0001188 m2
+C.0.0000297 m2
+D.0.0000594 m2 
+answer: B
+12.Which of the following is a vector quantity?
+A.Electric current
+B.Distance 
+C.Pressure 
+D.Weight 
+answer: C
+13 .Two bodies A and B are moving with speed VA = V and VB = 2V relative to the ground, respectively. If they are moving in the same direction, what will be the velocity of B with relative to A?
+A, 2V
+B, V
+C, v5  V
+D, 3V
+answer: A
+14	Which statement is correct about the quantity in rational motion?
+A.	Tangential velocity is the rate of change of angular position per unit time.
+B.	Angular velocity is the rate of change of linear position per unit time.
+C	Angular velocity is the rate of change of angular position per unit time.
+D	Tangential velocity is the rate of change of angular position per unit time per unit radius.
+answer: D
+15	A small ball of mass m is attached to one end of a thin rod of length L, and the other end of the rod is fixed on pivot. What is the rotational moment of inertia, I? (assume that mass of the rod is negligible)
+A	I = mL
+B	I = 1/2 mL2
+C	I = m/L
+D	I = mL2
+answer: D
